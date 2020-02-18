@@ -145,7 +145,7 @@ function rating()
        <li><i class="fa fa-star"></i></li>
        <li><i class="fa fa-star"></i></li>`
    }
-   else if( 16< moves <20)
+   else if( 17< moves <20)
    {
     starsContainer.innerHTML = 
     `<li><i class="fa fa-star"></i></li>
