@@ -1,5 +1,6 @@
 # Fend-Memory-Game
- [](img/Theme.png)
+
+![](img/Theme.png)
 
 A Browser-based Card Matching Game, rely on JavaScript without any external libraries! Start by clicking on a Card and you will see an Image, try to search for it in the other cards!
 
