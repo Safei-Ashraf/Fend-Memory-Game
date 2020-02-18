@@ -19,7 +19,7 @@ A Browser-based Card Matching Game, rely on JavaScript without any external libr
 
 *  If You Didn't Find It, Both Of Them Will Be Flipped back/Invisible Again.
 
-        >  Try to find the peers in as less moves as possible to get a better rating!
+        >        Try to find the peers in as less moves as possible to get a better rating!
 
   *So, you gotta have a good memory!*
  
