@@ -42,5 +42,5 @@ A Browser-based Card Matching Game, rely on JavaScript without any external libr
 ###  [PLAY NOW!](https://bosa-game.netlify.com/)
 
 ## Contributing:
-*Base CSS classes for styling were provided by Udacity as a _starter_ code. part of Udacity Front-End Nanodegree projects (3 of 9).*
+*Base CSS classes for styling were provided by Udacity as a _starter_ code. part of Udacity Front-End Nanodegree projects(3 of 9).*
 
